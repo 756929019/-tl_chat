@@ -1,0 +1,4 @@
+<!--miniprogram/pages/webview/webview.wxml-->
+<view class="container">
+<web-view src="{{surl}}"></web-view>
+</view>
